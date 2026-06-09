@@ -58,7 +58,7 @@ Facilitar a interpretação de dados ambientais, transformando informações com
 
 ## 1. Menu Principal
 
-**Inserir print do menu principal aqui**
+![Space-Alert-Prints](Captura de tela 2026-06-08 213540.png)
 
 ---
 
