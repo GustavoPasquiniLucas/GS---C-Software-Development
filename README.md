@@ -58,25 +58,19 @@ Facilitar a interpretação de dados ambientais, transformando informações com
 
 ## 1. Menu Principal
 
-![Space-Alert-Prints](menu-1.png)
-
----
+![Menu Principal](Space-Alert-Prints/menu-1.png)
 
 ## 2. Monitoramento da Região
 
-![Space-Alert-Prints](menu-2.png)
-
----
+![Monitoramento](Space-Alert-Prints/menu-2.png)
 
 ## 3. Alertas Gerados
 
-![Space-Alert-Prints](menu-3.png)
-
----
+![Alertas](Space-Alert-Prints/menu-3.png)
 
 ## 4. Histórico de Alertas
 
-![Space-Alert-Prints](menu-4.png)
+![Histórico](Space-Alert-Prints/menu-4.png)
 
 ---
 
