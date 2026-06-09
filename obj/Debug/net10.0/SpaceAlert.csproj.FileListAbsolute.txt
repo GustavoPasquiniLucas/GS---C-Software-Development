@@ -1,0 +1,14 @@
+D:\programacao\SpaceAlert\SpaceAlert\bin\Debug\net10.0\SpaceAlert.exe
+D:\programacao\SpaceAlert\SpaceAlert\bin\Debug\net10.0\SpaceAlert.deps.json
+D:\programacao\SpaceAlert\SpaceAlert\bin\Debug\net10.0\SpaceAlert.runtimeconfig.json
+D:\programacao\SpaceAlert\SpaceAlert\bin\Debug\net10.0\SpaceAlert.dll
+D:\programacao\SpaceAlert\SpaceAlert\bin\Debug\net10.0\SpaceAlert.pdb
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\SpaceAlert.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\SpaceAlert.AssemblyInfoInputs.cache
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\SpaceAlert.AssemblyInfo.cs
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\SpaceAlert.csproj.CoreCompileInputs.cache
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\SpaceAlert.dll
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\refint\SpaceAlert.dll
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\SpaceAlert.pdb
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\SpaceAlert.genruntimeconfig.cache
+D:\programacao\SpaceAlert\SpaceAlert\obj\Debug\net10.0\ref\SpaceAlert.dll
