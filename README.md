@@ -58,25 +58,25 @@ Facilitar a interpretação de dados ambientais, transformando informações com
 
 ## 1. Menu Principal
 
-![Space-Alert-Prints](Captura de tela 2026-06-08 213540.png)
+![Space-Alert-Prints](menu-1.png)
 
 ---
 
 ## 2. Monitoramento da Região
 
-**Inserir print após informar a região e exibir os dados do sensor**
+![Space-Alert-Prints](menu-2.png)
 
 ---
 
 ## 3. Alertas Gerados
 
-**Inserir print mostrando os alertas de enchente, seca e vegetação**
+![Space-Alert-Prints](menu-3.png)
 
 ---
 
 ## 4. Histórico de Alertas
 
-**Inserir print da opção "Ver Histórico"**
+![Space-Alert-Prints](menu-4.png)
 
 ---
 
